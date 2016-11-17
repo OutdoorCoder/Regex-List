@@ -1,0 +1,5 @@
+database is now accepting user access.
+
+Connect to it from android now.
+
+get a port to listen(1433) use command line, google how to do it.
